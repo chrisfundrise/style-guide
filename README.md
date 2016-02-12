@@ -36,3 +36,20 @@ The full-color scheme is the preferred one. In cases where only one color is ava
 ### Logo Spacing
 
 Leave at least one width of the glyph's worth of spacing around the logo to give it breathing room from other elements. If this is not possible due to space constraints, leave at least half a glyph worth and reverse the background color that the logo is set on (e.g. in an avatar or profile image).
+
+## Color Palette
+
+### Primary Brand Colors
+
+The primary color palette of Fundrise is made up of the three colors in the logo: Fundrise Gold, Orange and Red. Fundrise Orange is the main color used to communicate the brand in UI and print documents. The other two colors are reserved for use in the logo and accent elements. Used together in the Fundrise logo, the three colors are evocative of a sunrise, representing a new era in investing.
+
+### Brand Neutrals
+
+The brand neutrals are composed of two closely-related sets of colors, Fundrise Gray and Fundrise Slate. Using them is very simple - Fundrise Gray should be used exclusively for type, and Fundrise Slate should be used for everything else - backgrounds, buttons, UI elements, etc.
+
+### Secondary Brand Colors
+
+The secondary brand colors are utility colors which should be used when it is not appropriate to use the primary brand colors. As such, they should be used sparingly and only when necessary. Here are a few examples:
+
+* Success, warning and error messages in UI
+* Fundrise risk rating colors in the risk badges and portfolio
