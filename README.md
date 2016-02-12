@@ -53,3 +53,25 @@ The secondary brand colors are utility colors which should be used when it is no
 
 * Success, warning and error messages in UI
 * Fundrise risk rating colors in the risk badges and portfolio
+
+## Typography
+
+### Typeface
+
+The brand typeface for Fundrise is Source Sans Pro. It is a grotesque sans-serif with some humanist influences, making it modern and professional in appearance with subtle friendly overtones. It is also an extremely versatile typeface, with six different weights and excellent legibility in print and on the screen at all sizes, including as a web font.
+
+The Fundrise brand mostly utilizes the Light, Regular and Semibold weights, but on rare occasions it may be appropriate to use the others.
+
+Source Sans Pro is an open source typeface, available for free on Google Fonts. In order to utilize Fundrise-branded document templates, you will need to download and install Source Sans Pro on your computer.
+
+### Type Sizing and Line Height
+
+On the web, type sizing is limited to a specific scale, which is defined by special type sizing CSS classes. The scale is as follows:
+
+* 12px
+* 14px
+* 16px - base / body copy
+* 18px
+* 24px
+* 36px
+* 48px
